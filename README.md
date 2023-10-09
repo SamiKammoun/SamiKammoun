@@ -3,7 +3,7 @@
 <h3 align="center">Blockchain ⛓️ DeFi 💸 NFTs 🎨 GameFi 🕹️ Full-Stack Web Dev 🌎 Cloud ☁️</h3>
 <h3 align="center">❌ Don't ask me: Could you do it ?</h3>
 <h3 align="center">✅ Ask me: How will you do it ?</h3>
-<h3 align="center">📫 Reach me at: <a href="mailto:contact@samikammoun.me">contact@samikammoun.me</a></h3>
+<h3 align="center">📫 Reach me at: <a href="mailto:samikammoun@ieee.org">samikammoun@ieee.org</a></h3>
 <img src="https://wallpapercave.com/wp/wp7664856.png" alt="Me and my pet">
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samikammoun" alt="samikammoun" /></a> </p>
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/sami-kammoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami-kammoun" height="30" width="40" /></a></h3>
