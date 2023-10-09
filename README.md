@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sami Kammoun 🐈‍⬛ 🇹🇳</h1>
 <h3 align="center">I am an engineering student @Sup'Com but I also do:</h3>
-<h3 align="center">Blockchain ⛓️ DeFi 💸 NFTs 🎨 GameFi 🕹️ Full-Stack Web Dev 🌎</h3>
+<h3 align="center">Blockchain ⛓️ DeFi 💸 NFTs 🎨 GameFi 🕹️ Full-Stack Web Dev 🌎 Cloud ☁️</h3>
 <h3 align="center">❌ Don't ask me: Could you do it ?</h3>
 <h3 align="center">✅ Ask me: How will you do it ?</h3>
 <h3 align="center">📫 Reach me at: <a href="mailto:contact@samikammoun.me">contact@samikammoun.me</a></h3>
