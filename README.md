@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami Kammoun 🐈‍⬛ 🇹🇳</h1>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samikammoun&theme=dark" alt="samikammoun" /></p>
 <h3 align="center">Blockchain ⛓️ DeFi 💸 NFTs 🎨 GameFi 🕹️ Full-Stack Web Dev 🌎 Cloud ☁️</h3>
 <h3 align="center">❌ Don't ask me: Could you do it ?</h3>
 <h3 align="center">✅ Ask me: How will you do it ?</h3>
@@ -36,5 +37,4 @@
 <br/>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samikammoun&show_icons=true&theme=dark&locale=en&layout=compact" alt="samikammoun" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samikammoun&theme=dark" alt="samikammoun" /></p>
 
